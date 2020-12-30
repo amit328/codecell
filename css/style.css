@@ -2089,7 +2089,8 @@ a:active {
   color: #ffbe2e;
   font-weight: 500;
   font-size: 1.2rem;
-  text-align: left;
+  text-align: justify;
+  width: 100%;
 }
 
 .special-des-speaker {
@@ -2150,7 +2151,7 @@ a:active {
 .owl-carousel .owl-nav .owl-next:after {
   position: absolute;
   content: url(../images/vector/right.png);
-  left: 55%;
+  left: 50%;
   top: -15%;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
